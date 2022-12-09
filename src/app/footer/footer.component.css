@@ -1,0 +1,8 @@
+.footer{
+    position: absolute;
+    background-color: burlywood;
+    width: 99%;
+    height:fit-content; 
+    color: #fff;
+    padding: 62px;
+}
